@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+onnxruntime
+numpy
+pydicom
+SimpleITK
+Pillow
+pyvista
+opencv-python-headless
+
+
